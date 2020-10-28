@@ -1,0 +1,35 @@
+.title-section
+{
+    background: url("/background.jpg");
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    min-height:500px;
+    color:white;
+    font-size: 26px;
+}
+
+.title-content
+{
+    padding: 5%;
+}
+.evaluation-part
+{
+    display: grid;
+    width: 100%;
+    
+}
+th
+{
+    padding: 2%;
+    background-color: aqua;
+    width:20%;
+}
+
+td
+{
+    padding:2%;
+    background-color: grey;
+}
+
+
